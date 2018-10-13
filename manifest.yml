@@ -1,0 +1,4 @@
+applications:
+- name: VulnAlert
+  random-route: true
+  memory: 128M
